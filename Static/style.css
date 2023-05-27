@@ -1,0 +1,291 @@
+#navitem-1 {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem-2 {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem-3 {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem-4 {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem-5 {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem-6 {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.pdf-image {
+    height: 80px;
+    width: 80px;
+}
+
+.banner-background {
+    background-image: url("./pdfconverter2.jpeg");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: bold;
+    color:#ff6247;
+}
+
+.icon-sizes {
+    color: red;
+    font-size: 55px;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+    color: #010a13;
+}
+
+.button-color {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FF6347;
+    color: white;
+    border-radius: 25px;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
+
+.icons-background {
+    background-color: #152c3e;
+    width: 43px;
+    height: 43px;
+    border-radius: 40px;
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-right: 11px;
+    padding-left: 11px;
+}
+
+.icon-size {
+    color: white;
+    font-size: 22px;
+}
+
+.spantext {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.btn_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    flex-direction: row!important;
+    justify-content: center;
+    align-items: center;
+}
+
+.normaltext {
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.normaltext2 {
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+.whychoosesection {
+    background-color: #fafbfe;
+}
+
+.wcuhead {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.wcu-icon {
+    color: #A0522D;
+    font-size: 55px;
+}
+
+.wcu-card {
+    background-color: white;
+    border-radius: 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.wcu-card-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.wcu-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.convertsession {
+    background-color: white;
+}
+
+.list-items {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.convert-card-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.list-items2 {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    list-style-type: none;
+}
+
+.list-item-icon {
+    color: #00CED1;
+}
+
+.list-item-icon2 {
+    color: #4682B4;
+}
+
+.questionspage {
+    background-color: #f9fbfe;
+}
+
+.feedback-section {
+    background-image: linear-gradient(#fff8db, #fae38c);
+}
+
+.icon-size-feedback {
+    font-size: 25px;
+
+}
+
+.footer-background {
+    background-image: linear-gradient(to left, #ffefba, #ffffff);
+}
+
+.footer-image {
+    height: 58px;
+    width: 170px;
+}
+
+.social-media-background {
+    background-color: #faf7e8;
+    width: 43px;
+    height: 43px;
+    border-radius: 40px;
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-right: 11px;
+    padding-left: 11px;
+}
+
+.icon1 {
+    color: green;
+    font-size: 22px;
+}
+
+.icon2 {
+    color: #00acee;
+    font-size: 22px;
+}
+
+.icon3 {
+    color: #F77737;
+    font-size: 22px;
+}
+
+.icon4 {
+    color: #0e76a8;
+    font-size: 22px;
+}
+
+.footer-para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.footer-des {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.list-style {
+    list-style-type: none;
+    color: #5a7184;
+    font-family: "Roboto";
+    padding-left: 0px;
+}
+
+.hori {
+    color: #9aa5b1;
+}
+
+.icon-s {
+    color: #5a7184;
+    margin-right: 4px;
+    font-size: 18px;
+}
+
+.heading2 {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+}
+
+.feedbackbutton {
+    margin-left: 105px;
+    height: 34px;
+
+}
